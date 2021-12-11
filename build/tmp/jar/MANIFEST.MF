@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: simplemod
+Implementation-Version: 1.01
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-12-11T19:44:35+0300
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "RRR",
+        "DDD"
+    ],
+    "key": {
+        "R": {
+            "item": "tm:ruby"
+        },
+        
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "tm:ruby_block",
+        "count": 3
+    }
+}
+

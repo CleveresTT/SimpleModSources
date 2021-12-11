@@ -1,0 +1,36 @@
+
+//Creative Tab
+itemGroup.mod_tub=OBJ Оружия
+
+//Items
+item.ruby.name=Рубин
+
+//Blocks
+tile.ruby_block.name=Рубиновый блок
+tile.matrix.name=Матрица
+
+//Tools
+item.ruby_sword.name=Рубиновый меч
+item.ruby_shovel.name=Рубиновая лопата
+item.ruby_pickaxe.name=Рубиновая кирка
+item.ruby_axe.name=Рубиновый топор
+item.ruby_hoe.name=Рубиновая мотыга
+
+//Armor
+item.ruby_helmet.name=Рубиновый шлем
+item.ruby_chestplate.name=Рубиновый нагрудник
+item.ruby_leggings.name=Рубиновые поножи
+item.ruby_boots.name=Рубиновые сапоги
+
+item.pl_mask.name=Кожаночная маска
+item.pl_boots.name=Кожаночные сапоги
+item.pl_bands.name=Кожаночные побрякушки
+item.pl_pants.name=Кожаночные штаны
+
+//CustomItems
+item.lotr_sword_1.name=Меч1
+item.lotr_sword_2.name=Меч2
+item.lotr_sword_3.name=Меч3
+item.lotr_sword_4.name=Меч4
+
+item.lotr_spear_1.name=Копье1

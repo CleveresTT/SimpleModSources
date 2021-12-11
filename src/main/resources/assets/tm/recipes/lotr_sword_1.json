@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "GIG",
+        " S "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "tm:lotr_sword_1",
+        "count": 1
+    }
+}
+

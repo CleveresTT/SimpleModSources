@@ -1,0 +1,36 @@
+
+//Creative Tab
+itemGroup.mod_tub=OBJ Weapons
+
+//Items
+item.ruby.name=Ruby
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.matrix.name=Matrix
+
+//Tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.pl_mask.name=Pure Leather Mask
+item.pl_boots.name=Pure Leather Boots
+item.pl_bands.name=Pure Leather Bands
+item.pl_pants.name=Pure Leather Pants
+
+//CustomItems
+item.lotr_sword_1.name=Sword1
+item.lotr_sword_2.name=Sword2
+item.lotr_sword_3.name=Sword3
+item.lotr_sword_4.name=Sword4
+
+item.lotr_spear_1.name=Spear1

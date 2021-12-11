@@ -1,0 +1,6 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl MDL_lotr_sword_2_bod00_TEX_lotr_sword_2
+
+map_Kd tm:items/lotr_sword_2

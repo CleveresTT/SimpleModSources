@@ -1,0 +1,13 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "minecraft:diamond"},
+        {"item": "minecraft:apple"},
+        {"item": "minecraft:apple"},
+        {"item": "minecraft:apple"}
+    ],
+    "result": {
+        "item": "tm:ruby",
+        "count": 1
+    }
+}
